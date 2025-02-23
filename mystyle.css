@@ -90,11 +90,11 @@ body {
     border-radius: 50px;
     margin-bottom: 2rem;
     cursor: pointer;
-    transition: background-color 0.3s ease; /* Added transition for smooth hover effect */
+    transition: background-color 0.3s ease; 
 }
 
 .banner-order-btn:hover {
-    background-color: #e88f0c; /* Darker shade for hover effect */
+    background-color: 
 }
 
 .banner-subheader {
